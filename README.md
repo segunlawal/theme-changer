@@ -1,1 +1,1 @@
-# Simple chrome extension that changes the theme of a web page
+### Simple chrome extension that changes the theme of a web page
