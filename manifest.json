@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "ThemeChanger",
+  "description": "Change the theme of your webpage",
+  "version": "1.0.0",
+
+  "action": {
+    "default_title": "ThemeChanger",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["scripting", "activeTab", "tabs"],
+  "optional_host_permissions": ["https://*/*", "http://*/*"]
+}
